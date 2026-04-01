@@ -1,25 +1,25 @@
-# 👋 Hi, I'm Jonathan Smit  
+#  Hi, I'm Jonathan Smit  
 ### Senior Product Manager | Digital Transformation Leader | Portfolio & Innovation Strategist  
 
-With 15+ years of experience in **Product Management, Project Leadership, Digital Transformation, and Telecom Portfolio Strategy**, I specialize in bridging commercial strategy with deep technical execution. I currently serve as a **Senior Product Manager at SEACOM South Africa**, where I lead strategy, lifecycle management, and innovation across international and local network services (fiber, wireless, satellite) as well as SaaS solutions.
+With 15+ years of experience in **Product Management, Project Leadership, Digital Transformation, and Telecom Portfolio Strategy**, I specialise in bridging commercial strategy with deep technical execution. I currently serve as a **Senior Product Manager at SEACOM South Africa**, where I lead strategy, lifecycle management, and innovation across international and local network services (fiber, wireless, satellite) as well as SaaS solutions.
 
 I drive end-to-end product value—from **ideation → design → go-to-market → profitability**—while orchestrating cross-functional teams across engineering, DevOps, sales, design, legal, and finance. My background also spans major delivery roles at **EOH, Adapt IT, universities across Africa, and large-scale enterprise transformations**.
 
-I’m passionate about using **AI, automation, and agile product methodologies** to deliver scalable solutions that grow revenue, reduce cost, and power digital-first organizations.
+I’m passionate about using **AI, automation, and agile product methodologies** to deliver scalable solutions that grow revenue, reduce cost, and power digital-first organisations.
 
 ---
 
-## 🧩 Core Skills & Strengths
+##  Core Skills & Strengths
 
 ### **Strategic Product & Portfolio Management**
 - Full ownership of the **product lifecycle**: ideation, roadmap, GTM, profitability.
-- Multi-country portfolio leadership (South Africa, Kenya, Uganda, Tanzania).
+- Multi-country portfolio leadership (South Africa & International).
 - PMBoK-aligned project leadership of national and international network expansion.
 
 ### **Commercial & Financial Acumen**
 - **P&L ownership** and commercial model development.
 - Complex pricing, vendor negotiation, and cost analysis.
-- Revenue optimization through process re‑engineering and digital initiatives.
+- Revenue optimisation through process re‑engineering and digital initiatives.
 
 ### **Technical Expertise & Digital Transformation**
 - Digital product innovation and modernisation of legacy processes.
@@ -71,7 +71,7 @@ I’m passionate about using **AI, automation, and agile product methodologies**
 *A full technical + functional upgrade to ITS Integrator 2.*
 
 **Results:**  
-- Modernized architecture across two campuses  
+- Modernised architecture across two campuses  
 - Converted & tested 72 legacy programs  
 - Implemented real-time DR standby database  
 - Introduced Business Process Driver + Document Management System  
@@ -84,8 +84,8 @@ I’m passionate about using **AI, automation, and agile product methodologies**
 **Results:**  
 - Managed R1.68m project over multiple campuses  
 - Achieved full HEMIS compliance  
-- Verified and digitized institutional asset data  
-- Built standardized governance structures  
+- Verified and digitised institutional asset data  
+- Built standardised governance structures  
 
 ---
 
@@ -94,7 +94,7 @@ I’m passionate about using **AI, automation, and agile product methodologies**
 
 **Results:**  
 - Seamless migration from Dell → HP  
-- Reduced downtime and standardized infrastructure  
+- Reduced downtime and standardised infrastructure  
 - Improved reliability, performance & security  
 
 ---
@@ -105,16 +105,16 @@ I’m passionate about using **AI, automation, and agile product methodologies**
 
 ---
 
-## 🎓 Certifications & Continuous Learning
+##  Certifications & Continuous Learning
 - **Product Management Agile & AI Certificate – King’s College London (2025)**  
-  Enhancing my ability to integrate AI and automation into enterprise products.
+- **Project Management (PMBOK) - University of Johannesburg 2007**
+- **Advanced Project Management (PMBOK) - University of Johannesburg 2008**
+---
+
+##  Connect with Me
+- **LinkedIn:** _(www.linkedin.com/in/jonathan-smit-3594b162)_  
+- **Email:** _jonathan.smit99@gmail.com_  
 
 ---
 
-## 📫 Connect with Me
-- **LinkedIn:** _(add link)_  
-- **Email:** _(optional)_  
-
----
-
-⭐ *If you find my work or projects interesting, feel free to follow, connect, or collaborate!*
+*If you find my work or projects interesting, feel free to follow, connect, or collaborate!*
