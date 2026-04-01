@@ -1,4 +1,4 @@
-#  Hi, I'm Jonathan Smit  
+#  Hi, I am Jonathan Smit  
 ### Senior Product Manager | Digital Transformation Leader | Portfolio & Innovation Strategist  
 
 With 15+ years of experience in **Product Management, Project Leadership, Digital Transformation, and Telecom Portfolio Strategy**, I specialise in bridging commercial strategy with deep technical execution. I currently serve as a **Senior Product Manager at SEACOM South Africa**, where I lead strategy, lifecycle management, and innovation across international and local network services (fiber, wireless, satellite) as well as SaaS solutions.
